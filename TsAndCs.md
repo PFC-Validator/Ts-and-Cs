@@ -303,17 +303,17 @@ Each User must not, directly or indirectly, in connection with their use of the 
 * engage in or knowingly facilitate any “front-running,” “wash trading,” “pump and dump trading,” “ramping,” “cornering”
   or fraudulent, deceptive or manipulative trading activities, including:
 
-** trading at successively lower or higher prices for the purpose of creating or inducing a false, misleading or
+    * trading at successively lower or higher prices for the purpose of creating or inducing a false, misleading or
 artificial
 appearance of activity, unduly or improperly influencing market prices or establishing a price which does not reflect
 the true state of the market;
 
-** trading without changes in material beneficial ownership for the purpose of creating or inducing a false or
+    * trading without changes in material beneficial ownership for the purpose of creating or inducing a false or
 misleading
 appearance of trading activity or creating or inducing a false or misleading appearance with respect to market
 conditions; or
 
-** participating in, facilitating, assisting or knowingly transacting with any pool, syndicate or joint account
+     * participating in, facilitating, assisting or knowingly transacting with any pool, syndicate or joint account
 organized
 for the purpose of unfairly or deceptively influencing market prices;
 
